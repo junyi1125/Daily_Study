@@ -1,0 +1,6 @@
+setRootVal(l, 9)
+print(r)
+insertLeft(l, 11)
+print(r)
+x = getRightChild(getRightChild(r))
+print(x)
